@@ -1,0 +1,32 @@
+h3{ 
+	text-align: center; 
+}
+form:hover {
+    color: darkgoldenrod;
+}
+form {
+    border: 3px solid yellowgreen;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.wrapper{ 
+	width: 70%;
+	margin: 0 auto;
+   border: 5px solid #ddd;
+}
+label{ 
+	font-size: 25px; 
+}
+.first_name, .last_name, .email, .password, .date_of_birth,
+.gender, .mobile_number{
+	width: 90%;
+	height: 15px;
+	padding: 10px;
+	font-size: 18px;
+}
+input {
+    padding: 10px;
+}
+input:hover,button:hover{
+    color: skyblue;
+}

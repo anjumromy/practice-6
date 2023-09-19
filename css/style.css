@@ -1,0 +1,108 @@
+h1 {
+	margin-left: 650px;
+    color: seagreen;
+}
+.box{
+	width: 20px;
+	height: 20px;
+	background-color: blueviolet;
+}
+
+.container{
+	overflow: hidden;
+
+}
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: blueviolet;
+}
+.contact{
+	float: right;
+	width: 55%;
+	height: 200px ;
+	background-color: pink;
+}
+
+.wrapper{}
+.box{
+	float: left;
+	height: 100px;
+	width: 33.33%;
+}
+.black{
+	background-color: black;
+}
+.pink{
+	background-color: pink;
+}
+.grey{
+	background-color: grey;
+}
+.box3{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+	padding: 5px;
+}
+.aqua{
+	background-color: aqua;
+	margin-left: 110px;
+	padding: 10px;
+}
+.orange{
+	background-color: darkorange;
+	margin-left: 229px;
+	padding: 15px;
+}
+.skyblue{
+	background-color: skyblue;
+	margin-left: 358px;
+	padding: 25px;
+
+}
+
+.box4{
+    width: 150px;
+    height: 150px;
+}
+.sandybrown{
+    background-color: sandybrown;
+}
+.bisque{
+    background-color: bisque;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.seagreen{
+    background-color: seagreen;
+    margin-left: 150px;
+}
+.darkcyan{
+    background-color: darkcyan;
+}
+.olive{
+    background-color: olive;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+table { width: 100%; 
+   border: 1px solid black;
+}
+ th, td{ font-size: 20px;
+   text-align: center;
+   border: 1px solid black;
+}
+th {
+   padding: 5px;
+}
+td:hover {
+   background-color: #ddd;
+}
+
+a{ display: block; 
+}
+
